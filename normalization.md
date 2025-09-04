@@ -107,4 +107,3 @@ The schema is now in **Third Normal Form (3NF)**:
 - **3NF:** No transitive dependencies between non-key attributes.  
 
 This ensures minimal redundancy, improved consistency, and better scalability for the Airbnb database.
-
